@@ -6,7 +6,7 @@
 <img align="right" alt="Astronaut" width="300" src="https://i.pinimg.com/originals/f2/42/ba/f242bac4512325947a7284b1afd4d32b.gif" style="border-radius:20px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashu1303&label=Profile%20views&color=1a5274&style=flat" alt="aashu1303" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Machine Learning.**
+- 🌱 I’m currently learning **DSA and Javascript.**
 
 - 💬 Ask me about **C++ and Problem Solving**
 
