@@ -6,7 +6,7 @@
 <img align="right" alt="Astronaut" width="300" src="https://i.pinimg.com/originals/f2/42/ba/f242bac4512325947a7284b1afd4d32b.gif" style="border-radius:20px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashu1303&label=Profile%20views&color=1a5274&style=flat" alt="aashu1303" /> </p>
 
-- 🌱 I’m currently learning **DSA and Javascript.**
+- 🌱 I’m currently learning **DSA and MERN.**
 
 - 💬 Ask me about **C++ and Problem Solving**
 
@@ -16,17 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aashutoshagraw5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aashutoshagraw5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aashutosh1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashutosh1309" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1203628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1203628" height="30" width="40" /></a>
 <a href="https://kaggle.com/aashu1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aashu1309" height="30" width="40" /></a>
-<a href="https://instagram.com/a._.1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a._.1729" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aashutoshag03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aashutoshag03" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aashu1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aashu1309" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aashu1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aashu1309" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashutosh_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashutosh_01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aashutokl9h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aashutokl9h" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/aashu_1309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="aashu_1309" height="30" width="40" /></a>
 <a href="https://discord.gg/aashu_1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aashu_1308" height="30" width="40" /></a>
 </p>
 
